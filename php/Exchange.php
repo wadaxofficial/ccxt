@@ -213,6 +213,7 @@ class Exchange {
         'vaultoro',
         'vbtc',
         'virwox',
+        'wadax',
         'xbtce',
         'yobit',
         'zaif',
