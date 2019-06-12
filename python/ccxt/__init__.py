@@ -197,6 +197,7 @@ from ccxt.urdubit import urdubit                            # noqa: F401
 from ccxt.vaultoro import vaultoro                          # noqa: F401
 from ccxt.vbtc import vbtc                                  # noqa: F401
 from ccxt.virwox import virwox                              # noqa: F401
+from ccxt.wadax import wadax                                # noqa: F401
 from ccxt.xbtce import xbtce                                # noqa: F401
 from ccxt.yobit import yobit                                # noqa: F401
 from ccxt.zaif import zaif                                  # noqa: F401
@@ -335,6 +336,7 @@ exchanges = [
     'vaultoro',
     'vbtc',
     'virwox',
+    'wadax',
     'xbtce',
     'yobit',
     'zaif',
