@@ -87,6 +87,7 @@
     "urdubit":       { "skip": true },
     "vaultoro":      { "skip": true },
     "vbtc":          { "skip": true },
+    "wadax":         { "skip": true },
     "xbtce":         { "skip": true },
     "yobit":         { "skip": true },
     "yunbi":         { "skip": true },
