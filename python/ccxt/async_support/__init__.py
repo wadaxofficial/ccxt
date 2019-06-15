@@ -178,6 +178,7 @@ from ccxt.async_support.urdubit import urdubit                            # noqa
 from ccxt.async_support.vaultoro import vaultoro                          # noqa: F401
 from ccxt.async_support.vbtc import vbtc                                  # noqa: F401
 from ccxt.async_support.virwox import virwox                              # noqa: F401
+from ccxt.async_support.wadax import wadax                                # noqa: F401
 from ccxt.async_support.xbtce import xbtce                                # noqa: F401
 from ccxt.async_support.yobit import yobit                                # noqa: F401
 from ccxt.async_support.zaif import zaif                                  # noqa: F401
@@ -316,6 +317,7 @@ exchanges = [
     'vaultoro',
     'vbtc',
     'virwox',
+    'wadax',
     'xbtce',
     'yobit',
     'zaif',
